@@ -90,7 +90,7 @@ DATABASES = {
         'NAME':'csvt',
         'USER':'root',
         'PASSWORD':'Zhuyi78mima',
-        'HOST':'192.168.117.133',
+        'HOST':'139.9.198.142',
         'PORT':'3306',
 
         }
